@@ -87,7 +87,7 @@ Testing that aqn admissabile heursitic nevers costs more than an inadmissable he
 def test_astar_stats(self): Testing the stats in a non trivial way, ensuring that the number of nodes expanded for Astar is less than or equal to the number of nodes expanded for BFS. 
 
 
-Collaborators:
+Collaborators:none
 
 Hours spent on homework: 8
 
